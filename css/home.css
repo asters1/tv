@@ -1,0 +1,9 @@
+.query {
+  width: 100px;
+  height: 200px;
+  border: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
